@@ -1,2 +1,2 @@
-link to very basic interactive prototype
-https://www.figma.com/proto/qC3HawVoyQicBcAtSBZjLm/LOOM-WIREFRAME?node-id=0-1&t=qjE3V1fM5CGpDtIn-1
+link to very basic interactive prototype:
+https://www.figma.com/proto/bahf4ge4SkKG8zxrSgwdKK/LOOM-JOURNAL?node-id=0-1&t=VaMhJkiQ7UdFSnSA-1
